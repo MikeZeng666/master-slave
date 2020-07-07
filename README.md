@@ -1,1 +1,2 @@
 # master-slave
+主要原理是利用spring AbstractRoutingDataSource路由数据源和mybatis支持多数据源来实现
